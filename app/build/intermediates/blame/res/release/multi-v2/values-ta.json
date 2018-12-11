@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\pasindu\\AndroidStudioProjects\\ghoststories\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ta\\values-ta.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pasindu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\534b2beccfff2d5cf79103f6dc31d512\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "938",
+                        "endColumns": "100",
+                        "endOffsets": "1034"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pasindu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\3aa334805777bc0a7fc42ce0f20a2c98\\res\\values-ta\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "224",
+                        "endOffsets": "471"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "224",
+                        "endOffsets": "325"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pasindu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-15.0.0.aar\\8a2a844e1aa2c1362adfb2ed07df91ca\\res\\values-ta\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,267,380,444,509,594,704",
+                        "endColumns": "69,112,63,64,84,109,72",
+                        "endOffsets": "266,379,443,508,593,703,776"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "330,404,521,589,658,747,861",
+                        "endColumns": "73,116,67,68,88,113,76",
+                        "endOffsets": "399,516,584,653,742,856,933"
+                    }
+                }
+            ]
+        }
+    ]
+}

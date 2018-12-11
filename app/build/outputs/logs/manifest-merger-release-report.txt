@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\63709b43a52943365025191c062ad2d0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\39f13ca2a553cc0b4f56361d879de01f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\8a2a844e1aa2c1362adfb2ed07df91ca\AndroidManifest.xml:17:1-25:12
+MERGED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6527b82e513580e58626841b1215ca6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.ads.mediation:facebook:5.1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\facebook-5.1.0.0.aar\dd1e4bfbf4b68c68761874869272fd2b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\571c67f94d56fa20ee432b6aee24cf2d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\f1363fcf9c8be57617e1dd5fcb48bbd0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ddc6b3dd0c91793a74cc31c8c18b6502\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\c6aa7fa6ae836a8dd951a40e7a42609d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\4492f02e15ce28b7a47661a9b4a2631d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\604c45c0b8019010d58c4de015633ce8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\62b086f900508608812f2fe2d06733f4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9751868cb3d0fa91605f013a9aaa5935\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3aa334805777bc0a7fc42ce0f20a2c98\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bcadc7217965fb0ac03694dc0c7dc03\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\05ba2053f1deb0cb102da2a3fbdad454\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6a8b824aa14f1a390eabceee45c41515\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1db2e7bf8bc380e9c51dd686c8a533d1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8565dda95c13fc201ddf9631c76c37e5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\534b2beccfff2d5cf79103f6dc31d512\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\01de989ffba2969a0a8b7911c18e0a69\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86f449e5070d7bc592b68399926ed9ad\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:8:5-33:19
+MERGED from [com.android.support:design:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\63709b43a52943365025191c062ad2d0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\63709b43a52943365025191c062ad2d0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\39f13ca2a553cc0b4f56361d879de01f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\39f13ca2a553cc0b4f56361d879de01f\AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:14:5-32:19
+MERGED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:14:5-32:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6527b82e513580e58626841b1215ca6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6527b82e513580e58626841b1215ca6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\571c67f94d56fa20ee432b6aee24cf2d\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\571c67f94d56fa20ee432b6aee24cf2d\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\f1363fcf9c8be57617e1dd5fcb48bbd0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\f1363fcf9c8be57617e1dd5fcb48bbd0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ddc6b3dd0c91793a74cc31c8c18b6502\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ddc6b3dd0c91793a74cc31c8c18b6502\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\c6aa7fa6ae836a8dd951a40e7a42609d\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\c6aa7fa6ae836a8dd951a40e7a42609d\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\62b086f900508608812f2fe2d06733f4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\62b086f900508608812f2fe2d06733f4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9751868cb3d0fa91605f013a9aaa5935\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9751868cb3d0fa91605f013a9aaa5935\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3aa334805777bc0a7fc42ce0f20a2c98\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3aa334805777bc0a7fc42ce0f20a2c98\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bcadc7217965fb0ac03694dc0c7dc03\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bcadc7217965fb0ac03694dc0c7dc03\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\05ba2053f1deb0cb102da2a3fbdad454\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\05ba2053f1deb0cb102da2a3fbdad454\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6a8b824aa14f1a390eabceee45c41515\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6a8b824aa14f1a390eabceee45c41515\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1db2e7bf8bc380e9c51dd686c8a533d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1db2e7bf8bc380e9c51dd686c8a533d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8565dda95c13fc201ddf9631c76c37e5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8565dda95c13fc201ddf9631c76c37e5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\534b2beccfff2d5cf79103f6dc31d512\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\534b2beccfff2d5cf79103f6dc31d512\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\01de989ffba2969a0a8b7911c18e0a69\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\01de989ffba2969a0a8b7911c18e0a69\AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86f449e5070d7bc592b68399926ed9ad\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86f449e5070d7bc592b68399926ed9ad\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:10:9-42
+	android:allowBackup
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:13:9-40
+activity#ghost.pasindu.com.SplashActivity
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:15:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:21:27-74
+activity#ghost.pasindu.com.MainActivity
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:24:9-27:59
+	android:label
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:25:13-41
+activity#ghost.pasindu.com.NoInternetActivity
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:28:9-65
+	android:name
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:28:19-53
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:30:9-32:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3aa334805777bc0a7fc42ce0f20a2c98\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3aa334805777bc0a7fc42ce0f20a2c98\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:32:13-66
+	android:name
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml:31:13-58
+uses-sdk
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\63709b43a52943365025191c062ad2d0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\63709b43a52943365025191c062ad2d0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\39f13ca2a553cc0b4f56361d879de01f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\39f13ca2a553cc0b4f56361d879de01f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\8a2a844e1aa2c1362adfb2ed07df91ca\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\8a2a844e1aa2c1362adfb2ed07df91ca\AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6527b82e513580e58626841b1215ca6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6527b82e513580e58626841b1215ca6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ads.mediation:facebook:5.1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\facebook-5.1.0.0.aar\dd1e4bfbf4b68c68761874869272fd2b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ads.mediation:facebook:5.1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\facebook-5.1.0.0.aar\dd1e4bfbf4b68c68761874869272fd2b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\571c67f94d56fa20ee432b6aee24cf2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\571c67f94d56fa20ee432b6aee24cf2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\f1363fcf9c8be57617e1dd5fcb48bbd0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\f1363fcf9c8be57617e1dd5fcb48bbd0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ddc6b3dd0c91793a74cc31c8c18b6502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ddc6b3dd0c91793a74cc31c8c18b6502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\c6aa7fa6ae836a8dd951a40e7a42609d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\c6aa7fa6ae836a8dd951a40e7a42609d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\4492f02e15ce28b7a47661a9b4a2631d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\4492f02e15ce28b7a47661a9b4a2631d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\604c45c0b8019010d58c4de015633ce8\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\604c45c0b8019010d58c4de015633ce8\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\62b086f900508608812f2fe2d06733f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\62b086f900508608812f2fe2d06733f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9751868cb3d0fa91605f013a9aaa5935\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9751868cb3d0fa91605f013a9aaa5935\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3aa334805777bc0a7fc42ce0f20a2c98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3aa334805777bc0a7fc42ce0f20a2c98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bcadc7217965fb0ac03694dc0c7dc03\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bcadc7217965fb0ac03694dc0c7dc03\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\05ba2053f1deb0cb102da2a3fbdad454\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\05ba2053f1deb0cb102da2a3fbdad454\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6a8b824aa14f1a390eabceee45c41515\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6a8b824aa14f1a390eabceee45c41515\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1db2e7bf8bc380e9c51dd686c8a533d1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1db2e7bf8bc380e9c51dd686c8a533d1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8565dda95c13fc201ddf9631c76c37e5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8565dda95c13fc201ddf9631c76c37e5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\534b2beccfff2d5cf79103f6dc31d512\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\534b2beccfff2d5cf79103f6dc31d512\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\01de989ffba2969a0a8b7911c18e0a69\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\01de989ffba2969a0a8b7911c18e0a69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86f449e5070d7bc592b68399926ed9ad\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86f449e5070d7bc592b68399926ed9ad\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\63709b43a52943365025191c062ad2d0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pasindu\AndroidStudioProjects\ghoststories\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\63709b43a52943365025191c062ad2d0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\39f13ca2a553cc0b4f56361d879de01f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\39f13ca2a553cc0b4f56361d879de01f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\571c67f94d56fa20ee432b6aee24cf2d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\571c67f94d56fa20ee432b6aee24cf2d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\f1363fcf9c8be57617e1dd5fcb48bbd0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\f1363fcf9c8be57617e1dd5fcb48bbd0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ddc6b3dd0c91793a74cc31c8c18b6502\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ddc6b3dd0c91793a74cc31c8c18b6502\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\c6aa7fa6ae836a8dd951a40e7a42609d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\c6aa7fa6ae836a8dd951a40e7a42609d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bcadc7217965fb0ac03694dc0c7dc03\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bcadc7217965fb0ac03694dc0c7dc03\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\05ba2053f1deb0cb102da2a3fbdad454\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\05ba2053f1deb0cb102da2a3fbdad454\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6a8b824aa14f1a390eabceee45c41515\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6a8b824aa14f1a390eabceee45c41515\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1db2e7bf8bc380e9c51dd686c8a533d1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1db2e7bf8bc380e9c51dd686c8a533d1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8565dda95c13fc201ddf9631c76c37e5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8565dda95c13fc201ddf9631c76c37e5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\534b2beccfff2d5cf79103f6dc31d512\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\534b2beccfff2d5cf79103f6dc31d512\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\63709b43a52943365025191c062ad2d0\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\63709b43a52943365025191c062ad2d0\AndroidManifest.xml:26:9-47
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:15:9-18:40
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:16:13-68
+activity#com.facebook.ads.internal.ipc.RemoteANActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:19:9-23:39
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:23:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:22:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:20:13-74
+service#com.facebook.ads.internal.ipc.AdsProcessPriorityService
+ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:26:13-83
+service#com.facebook.ads.internal.ipc.AdsMessengerService
+ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:28:9-31:39
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:31:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.1.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.1.0.aar\759e18087e78dfe5d1a4aaec3697af53\AndroidManifest.xml:29:13-77
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\56d3e951f6ca5a1118daab145056ae2b\AndroidManifest.xml:30:13-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86f449e5070d7bc592b68399926ed9ad\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86f449e5070d7bc592b68399926ed9ad\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pasindu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86f449e5070d7bc592b68399926ed9ad\AndroidManifest.xml:26:13-58
