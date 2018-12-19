@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "307120038415",
+    "firebase_url": "https://katha-ahura-55ed6.firebaseio.com",
+    "project_id": "katha-ahura-55ed6",
+    "storage_bucket": "katha-ahura-55ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307120038415:android:3e18d093751682ad",
+        "android_client_info": {
+          "package_name": "ghost.pasindu.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307120038415-ilsfvicnda49mdcl75aa25rn4g69av3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdWUAyrzrsCX85GQ-qHz960O1Pz9Rut7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
