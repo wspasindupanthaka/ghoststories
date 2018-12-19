@@ -8,50 +8,50 @@ package com.google.android.exoplayer2;
 
 public final class R {
     public static final class attr {
-        public static final int fastforward_increment = 0x7f030084;
-        public static final int resize_mode = 0x7f0300d8;
-        public static final int rewind_increment = 0x7f0300da;
-        public static final int show_timeout = 0x7f0300e8;
-        public static final int use_controller = 0x7f030136;
-        public static final int use_texture_view = 0x7f030137;
+        public static final int fastforward_increment = 0x7f030087;
+        public static final int resize_mode = 0x7f0300dd;
+        public static final int rewind_increment = 0x7f0300df;
+        public static final int show_timeout = 0x7f0300ee;
+        public static final int use_controller = 0x7f03013c;
+        public static final int use_texture_view = 0x7f03013d;
     }
     public static final class drawable {
-        public static final int exo_controls_fastforward = 0x7f070064;
-        public static final int exo_controls_next = 0x7f070065;
-        public static final int exo_controls_pause = 0x7f070066;
-        public static final int exo_controls_play = 0x7f070067;
-        public static final int exo_controls_previous = 0x7f070068;
-        public static final int exo_controls_rewind = 0x7f070069;
+        public static final int exo_controls_fastforward = 0x7f070077;
+        public static final int exo_controls_next = 0x7f070078;
+        public static final int exo_controls_pause = 0x7f070079;
+        public static final int exo_controls_play = 0x7f07007a;
+        public static final int exo_controls_previous = 0x7f07007b;
+        public static final int exo_controls_rewind = 0x7f07007c;
     }
     public static final class id {
-        public static final int control = 0x7f08002e;
-        public static final int ffwd = 0x7f080042;
-        public static final int fit = 0x7f080046;
-        public static final int fixed_height = 0x7f080048;
-        public static final int fixed_width = 0x7f080049;
-        public static final int mediacontroller_progress = 0x7f08005a;
-        public static final int next = 0x7f080060;
-        public static final int play = 0x7f08006a;
-        public static final int prev = 0x7f08006b;
-        public static final int rew = 0x7f08006f;
-        public static final int shutter = 0x7f080088;
-        public static final int subtitles = 0x7f080096;
-        public static final int time = 0x7f08009f;
-        public static final int time_current = 0x7f0800a0;
-        public static final int video_frame = 0x7f0800ac;
+        public static final int control = 0x7f080030;
+        public static final int ffwd = 0x7f080045;
+        public static final int fit = 0x7f080049;
+        public static final int fixed_height = 0x7f08004b;
+        public static final int fixed_width = 0x7f08004c;
+        public static final int mediacontroller_progress = 0x7f08005f;
+        public static final int next = 0x7f080065;
+        public static final int play = 0x7f08006f;
+        public static final int prev = 0x7f080070;
+        public static final int rew = 0x7f080074;
+        public static final int shutter = 0x7f08008d;
+        public static final int subtitles = 0x7f08009c;
+        public static final int time = 0x7f0800a5;
+        public static final int time_current = 0x7f0800a6;
+        public static final int video_frame = 0x7f0800b2;
     }
     public static final class layout {
         public static final int exo_playback_control_view = 0x7f0a002e;
         public static final int exo_simple_player_view = 0x7f0a002f;
     }
     public static final class string {
-        public static final int exo_controls_fastforward_description = 0x7f0d0027;
-        public static final int exo_controls_next_description = 0x7f0d0028;
-        public static final int exo_controls_pause_description = 0x7f0d0029;
-        public static final int exo_controls_play_description = 0x7f0d002a;
-        public static final int exo_controls_previous_description = 0x7f0d002b;
-        public static final int exo_controls_rewind_description = 0x7f0d002c;
-        public static final int exo_controls_stop_description = 0x7f0d002d;
+        public static final int exo_controls_fastforward_description = 0x7f0d0039;
+        public static final int exo_controls_next_description = 0x7f0d003a;
+        public static final int exo_controls_pause_description = 0x7f0d003b;
+        public static final int exo_controls_play_description = 0x7f0d003c;
+        public static final int exo_controls_previous_description = 0x7f0d003d;
+        public static final int exo_controls_rewind_description = 0x7f0d003e;
+        public static final int exo_controls_stop_description = 0x7f0d003f;
     }
     public static final class style {
         public static final int ExoMediaButton = 0x7f0e00a3;
@@ -61,13 +61,13 @@ public final class R {
         public static final int ExoMediaButton_Rewind = 0x7f0e00a7;
     }
     public static final class styleable {
-        public static final int[] AspectRatioFrameLayout = { 0x7f0300d8 };
+        public static final int[] AspectRatioFrameLayout = { 0x7f0300dd };
         public static final int AspectRatioFrameLayout_resize_mode = 0;
-        public static final int[] PlaybackControlView = { 0x7f030084, 0x7f0300da, 0x7f0300e8 };
+        public static final int[] PlaybackControlView = { 0x7f030087, 0x7f0300df, 0x7f0300ee };
         public static final int PlaybackControlView_fastforward_increment = 0;
         public static final int PlaybackControlView_rewind_increment = 1;
         public static final int PlaybackControlView_show_timeout = 2;
-        public static final int[] SimpleExoPlayerView = { 0x7f030084, 0x7f0300d8, 0x7f0300da, 0x7f0300e8, 0x7f030136, 0x7f030137 };
+        public static final int[] SimpleExoPlayerView = { 0x7f030087, 0x7f0300dd, 0x7f0300df, 0x7f0300ee, 0x7f03013c, 0x7f03013d };
         public static final int SimpleExoPlayerView_fastforward_increment = 0;
         public static final int SimpleExoPlayerView_resize_mode = 1;
         public static final int SimpleExoPlayerView_rewind_increment = 2;

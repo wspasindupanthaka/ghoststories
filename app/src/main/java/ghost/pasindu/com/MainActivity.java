@@ -5,29 +5,22 @@ import android.app.ProgressDialog;
 import android.content.ActivityNotFoundException;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.res.Resources;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
 
-import com.facebook.ads.Ad;
-import com.facebook.ads.AdError;
-import com.facebook.ads.AdSettings;
-import com.facebook.ads.AdSize;
-import com.facebook.ads.AdView;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.MobileAds;
 
@@ -35,8 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     private WebView mWebView;
     private InterstitialAd mInterstitialAd;
-
-    private AdView facebookAdView;
+    private AdView mAdView;
 
 
     FloatingActionButton fab;
@@ -90,7 +82,6 @@ public class MainActivity extends AppCompatActivity {
                 dialog.dismiss();
             }
         });
-        MobileAds.initialize(this, "ca-app-pub-6889711673587860~3476423505");
 
 
         mInterstitialAd = new InterstitialAd(this);
@@ -98,12 +89,43 @@ public class MainActivity extends AppCompatActivity {
         mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712"); //test
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
 
-        Resources res = getResources();
-        RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
-        facebookAdView = new AdView(this, res.getString(R.string.fb_banner_id), AdSize.BANNER_HEIGHT_50);
-        adViewContainer.addView(facebookAdView);
-        facebookAdView.loadAd();
 
+        //test ca-app-pub-6889711673587860~3476423505
+        //live ca-app-pub-6889711673587860/8252988831
+
+        mAdView = (AdView) findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
+
+
+        mAdView.setAdListener(new AdListener() {
+            @Override
+            public void onAdLoaded() {
+                System.out.println("********Ad Loaded********");
+            }
+
+            @Override
+            public void onAdFailedToLoad(int errorCode) {
+                // Code to be executed when an ad request fails.
+            }
+
+            @Override
+            public void onAdOpened() {
+                // Code to be executed when an ad opens an overlay that
+                // covers the screen.
+            }
+
+            @Override
+            public void onAdLeftApplication() {
+                // Code to be executed when the user has left the app.
+            }
+
+            @Override
+            public void onAdClosed() {
+                // Code to be executed when when the user is about to return
+                // to the app after tapping on an ad.
+            }
+        });
 
 
         fab = (FloatingActionButton) findViewById(R.id.fab);

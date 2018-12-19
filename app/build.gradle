@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 25
@@ -32,6 +33,7 @@ dependencies {
 
     implementation 'com.facebook.android:audience-network-sdk:4.23.0'
 
+    implementation 'com.google.firebase:firebase-messaging:17.0.0'
 }
 
 configurations.all {
