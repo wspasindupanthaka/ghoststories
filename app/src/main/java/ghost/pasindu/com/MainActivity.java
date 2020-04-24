@@ -31,8 +31,6 @@ public class MainActivity extends AppCompatActivity {
     private AdView mAdView;
 
 
-    FloatingActionButton fab;
-
     long startTime = 0;
 
     Handler timerHandler = new Handler();
@@ -85,8 +83,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         mInterstitialAd = new InterstitialAd(this);
-//        mInterstitialAd.setAdUnitId("ca-app-pub-6889711673587860/2689708022"); //real
-        mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712"); //test
+        mInterstitialAd.setAdUnitId("ca-app-pub-6889711673587860/2689708022"); //live
+//        mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712"); //test
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
 
 
@@ -124,15 +122,6 @@ public class MainActivity extends AppCompatActivity {
             public void onAdClosed() {
                 // Code to be executed when when the user is about to return
                 // to the app after tapping on an ad.
-            }
-        });
-
-
-        fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                loadGoogleSheetOnWebView();
             }
         });
 

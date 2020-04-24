@@ -2,14 +2,14 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 
 android {
-    compileSdkVersion 25
+    compileSdkVersion 29
     buildToolsVersion '27.0.3'
     defaultConfig {
         applicationId "ghost.pasindu.com"
         minSdkVersion 14
-        targetSdkVersion 25
-        versionCode 6
-        versionName "1.6"
+        targetSdkVersion 29
+        versionCode 13
+        versionName "1.13"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -25,11 +25,11 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile 'com.android.support:appcompat-v7:25.3.0'
+    compile 'com.android.support:appcompat-v7:26.3.0'
     compile 'com.google.android.gms:play-services-ads:15.0.0'
-    compile 'com.android.support:design:25.3.0'
+    compile 'com.android.support:design:26.3.0'
     compileOnly 'junit:junit:4.12'
-    compile 'com.android.support:recyclerview-v7:25.3.1'
+    compile 'com.android.support:recyclerview-v7:26.3.1'
 
     implementation 'com.facebook.android:audience-network-sdk:4.23.0'
 
